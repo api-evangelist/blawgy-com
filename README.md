@@ -64,5 +64,156 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-blawgy-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://blawgy.com/
+Blawgy offers an AI‑driven content platform that writes, publishes, and continuously updates blog articles for businesses to appear in ChatGPT and Google AI search results. It targets high‑intent keywords, integrates with web platforms such as WordPress, Shopify, and Webflow, and provides analytics through Search Console and a cookieless pixel. The service is sold to agencies and direct business customers seeking automated SEO‑focused content.
+
+**Areas:** Content AI · SEO · Blog Publishing · AI Search · Agency Tools
+
+## blawgy-com on APIs.io
+
+Everything profiled for blawgy-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/blawgy-com/](https://apis.io/providers/blawgy-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [blawgy-com Account API](https://apis.io/apis/blawgy-com/blawgy-com-account-api/) — The caller, their sites, async jobs and the tool escape hatch.
+- [blawgy-com Articles API](https://apis.io/apis/blawgy-com/blawgy-com-articles-api/) — Articles on a site: list, read, write now, edit, schedule, publish and record live URLs.
+- [blawgy-com Builder API](https://apis.io/apis/blawgy-com/blawgy-com-builder-api/) — The article builder: titles, outlines, sections, remixes and drafts.
+- [blawgy-com Existing pages API](https://apis.io/apis/blawgy-com/blawgy-com-existing-pages-api/) — The inventory of pages that already exist on the site.
+- [blawgy-com Images API](https://apis.io/apis/blawgy-com/blawgy-com-images-api/) — Article images, the photo bank and brand colors.
+- [blawgy-com Integrations API](https://apis.io/apis/blawgy-com/blawgy-com-integrations-api/) — The publishing platform and search-engine connections.
+- [blawgy-com Keywords API](https://apis.io/apis/blawgy-com/blawgy-com-keywords-api/) — Keyword research, the research brief, your own keywords and exclusions.
+- [blawgy-com Location pages API](https://apis.io/apis/blawgy-com/blawgy-com-location-pages-api/) — Business locations and location pages.
+- [blawgy-com Metrics API](https://apis.io/apis/blawgy-com/blawgy-com-metrics-api/) — Overview, traffic, rankings, AI mentions, indexing and on-site behavior.
+- [blawgy-com Partner API](https://apis.io/apis/blawgy-com/blawgy-com-partner-api/) — White-label partner owners managing clients. Needs a partner-scoped key.
+- [blawgy-com Plan API](https://apis.io/apis/blawgy-com/blawgy-com-plan-api/) — The content plan: entries, cadence, autopilot and suggestions.
+- [blawgy-com Products API](https://apis.io/apis/blawgy-com/blawgy-com-products-api/) — Products the articles can feature, and the Dutchie inventory link.
+- [blawgy-com Public content API](https://apis.io/apis/blawgy-com/blawgy-com-public-content-api/) — Published posts for headless frontends and static builds. No key; callable from browsers; cacheable.
+- [blawgy-com Refresh API](https://apis.io/apis/blawgy-com/blawgy-com-refresh-api/) — Refresh requests for existing pages (sites with existing-content checks on).
+- [blawgy-com Settings API](https://apis.io/apis/blawgy-com/blawgy-com-settings-api/) — Site settings, guardrails, draft mode and the pixel.
+- [blawgy-com Support API](https://apis.io/apis/blawgy-com/blawgy-com-support-api/) — Help search and support requests.
+- [blawgy-com Team and billing API](https://apis.io/apis/blawgy-com/blawgy-com-team-and-billing-api/) — Teammates, invites and billing.
+- [blawgy-com Updates API](https://apis.io/apis/blawgy-com/blawgy-com-updates-api/) — Smart updates to published articles (Pro+).
+- [blawgy-com Webhooks API](https://apis.io/apis/blawgy-com/blawgy-com-webhooks-api/) — Outbound webhooks and their deliveries.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Blawgy Com Webhooks](https://apis.io/asyncapis/blawgy-com/blawgy-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Blawgy Com Agentic Access](https://apis.io/agentic-access/blawgy-com/blawgy-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PublicPost](https://apis.io/schemas/blawgy-com/blawgy-com-public-post/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Blawgy Com Context](https://apis.io/jsonld/blawgy-com/blawgy-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [blawgy-com API Rules](https://apis.io/rules/blawgy-com/blawgy-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Blawgy Com Authentication](https://apis.io/security/blawgy-com/blawgy-com-authentication/)
+- [Blawgy Com Domain Security](https://apis.io/security/blawgy-com/blawgy-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Blawgy Com Plans Pricing](https://apis.io/plans/blawgy-com/blawgy-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Blawgy Com Rate Limits](https://apis.io/rate-limits/blawgy-com/blawgy-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://blawgy.com/)
+- [Documentation](https://blawgy.com/developers/guides/partners)
+- [Getting started](https://blawgy.com/help#getting-started)
+- [API reference](https://blawgy.com/developers/reference)
+- [Pricing](https://blawgy.com/help/plans-and-pricing)
+- [Support](https://blawgy.com/help)
+- [Changelog](https://blawgy.com/changelog)
+- [Blog](https://blawgy.com/blog)
+- [Terms of service](https://blawgy.com/terms)
+- [Privacy policy](https://blawgy.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 64.3** — strong · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 64.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 63.2 |
+| Developer ergonomics | 58.9 |
+| Access clarity | 52.6 |
+
+**Agent readiness 65.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | yes |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/blawgy-com/](https://apis.io/providers/blawgy-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for blawgy-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/blawgy-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
